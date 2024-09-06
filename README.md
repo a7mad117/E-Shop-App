@@ -12,6 +12,6 @@ A E-Shop app made with Flutter, BLoc, APIs and Networking.
 
   <img src="https://github.com/a7mad117/E-Shop-App/blob/master/eShop-App-Screenshots/eShop%20App%203.jpeg" width="350" title="Favorites Screen">
 
-  <img src="https://github.com/a7mad117/E-Shop-App/blob/master/eShop-App-Screenshots/eShop%20App%205.jpeg" width="350" title="hover text">
+  <img src="https://github.com/a7mad117/E-Shop-App/blob/master/eShop-App-Screenshots/eShop%20App%205.jpeg" width="350" title="Search Screen">
 
 </p>
